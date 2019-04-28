@@ -18,11 +18,16 @@ Com o bot rodando você pode enviar alguns comandos para ele, lembrando que o pr
 Comandos:
 
 /list - Lista o id de todos os computadores que estão com o programa do bot rodando.
+![print](https://guidi.io/img_externa/bot_telegram_list.jpg)
 
 Com o id do bot que basicamente é um concatenação de nome da máquina + usuário logado você pode mandar comandos específicos para uma máquina, como por exemplo.
 
 /idmaquina #info - Lista as informações da máquina.
+![print](https://guidi.io/img_externa/bot_telegram_info.jpg)
 
-https://guidi.io/img_externa/bot_telegram_list.jpg
 
+Tem vários outros comandos como:
 
+Tirar screeenshot, enviar um arquivo da máquina para o telegram, executar um comando no CMD (prompt do DOS), executar um arquivo de música, abrir o navegador dentre outros, deixa de ser preguiçoso e dá uma olhadinha no código.
+
+Lembrando que este programa foi desenvolvido para FINS DE ESTUDO, então vê se não vai fazer merdinha com a máquina dos outros.
