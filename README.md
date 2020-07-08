@@ -13,7 +13,7 @@ Depois disso vá para o código fonte e no MainForm altere o valor da variável 
 
 A varíavel AuthorizedID deve ser preenchida com o seu id do telegram para que outra pessoa não consiga enviar comandos para o seu bot, para descobrir seu id basta enviar uma mensagem para o bot e em modo debug verificar o valor existente em message.From.Id.
 
-Com o bot rodando você pode enviar alguns comandos para ele, lembrando que o programa rodando o bot pode ser instalado em um ou vário computadores.
+Com o bot rodando você pode enviar alguns comandos para ele, lembrando que o programa rodando o bot pode ser instalado em um ou vários computadores.
 
 Comandos:
 
