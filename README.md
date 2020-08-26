@@ -1,4 +1,4 @@
-# Telegram DotNet
+# TelegramBot DotNet
 Bot de controle de computador usando API do Telegram.
 
 A API de bots do telegram é extremamente útil e fácil de utilizar, neste programa de exemplo eu a utilizo para controlar remotamente um ou vários computadores que estejam executando o programa.
